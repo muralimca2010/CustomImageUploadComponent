@@ -5,4 +5,5 @@
     <string name="selected_file_type">Selected File Type: None</string>
     <string name="preview">Show Preview</string>
     <string name="submit">Submit(OK)</string>
+    <string name="preview_image">Preview Image</string>
 </resources>
